@@ -1,0 +1,17 @@
+ --create table Property (Id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+ 						type varchar(20),
+ 						rent varchar(20),
+ 						address varchar(20),
+ 						ownerno varchar(20),
+ 						ownername varchar(20));
+
+  --insert into Property (type,rent,address,ownerno,ownername)values('2BHK','12000','Warje','951784632','ejaz');
+  
+  --create table  userRegistration(un varchar(20),
+  								   em varchar(20),	
+  								   mob varchar(20),
+  								   pw varchar(20),
+  								   addr varchar(20));
+  								   
+  --insert into userRegistration values('aniket','a@gmail.com','9587463221','123','chichwad');	
+  
